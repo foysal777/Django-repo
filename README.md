@@ -3,3 +3,6 @@
 'pk_test_51RA0154Ft3OiftBEBdRpJAIRlRHPws30OrFnt6a8DBRDrCHT0dRv4KYXA0oIpFErU1Q3wYhyiae79m4UxUEFTy5R00vD5wDRHa'
 'price_1RdiTU4Ft3OiftBENmAiWovw'
 
+
+
+https://medium.com/@foysal.cse11/jwt-authentication-views-py-8dff7873fd83
