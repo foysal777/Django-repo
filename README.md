@@ -5,4 +5,3 @@
 
 
 
-https://medium.com/@foysal.cse11/jwt-authentication-views-py-8dff7873fd83
